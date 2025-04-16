@@ -1,2 +1,4 @@
-# js_hw_1
-Homework 1 JavaScript3 Cource
+# Homework 1 JavaScript Course ❤️
+
+### Jobran Ayash
+### Majd Bathiesh
